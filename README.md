@@ -5,3 +5,5 @@ This gamemode is **not self-made**. It is based on an existing gamemode and was 
 
 ⚠️ **Note:** It is extremely outdated and does **NOT** use MTA's internal database functions. It requires the MySQL modules.   
 Most of the systems probably no longer works. The upload is mainly for **archiving purposes**.
+
+The gamemode is in German.
