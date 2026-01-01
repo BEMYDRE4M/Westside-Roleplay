@@ -5,7 +5,7 @@ This gamemode was worked on in 2014 and 2015.  This gamemode is **not self-made*
 https://multitheftauto.com
 
 ⚠️ **Note:** This gamemode is extremely outdated and does **NOT** use MTA's internal database functions. It requires the MySQL modules.   
-Most parts of the gamemode probably don’t work anymore. Development and support have been discontinued   
-this upload is just here for archiving purposes.
+Many systems of the gamemode are probably no longer working correctly and need to be updated.   
+Development and support have been discontinued; this upload serves mainly for archiving.
 
 The gamemode is in German.
