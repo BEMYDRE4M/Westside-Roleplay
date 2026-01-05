@@ -1,4 +1,4 @@
-# Westside-Roleplay
+# Westside Roleplay
 
 This gamemode was worked on in 2014 and 2015.  This gamemode is **not self-made**. It is based on an existing gamemode (Vio-Extended) and was only modified and expanded.    
 
