@@ -1,6 +1,6 @@
 # Westside Roleplay
 
-This gamemode was worked on in 2014 and 2015. It was my first attempts at scripting.. This gamemode is not self-made. It is based on an existing gamemode (Vio-Extended) which I modified and expanded.    
+This gamemode was worked on in 2014 and 2015. It was my first attempt at scripting. This gamemode is not self-made. It is based on an existing gamemode (Vio-Extended) which I modified and expanded.    
 
 https://multitheftauto.com
 
