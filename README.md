@@ -1,13 +1,47 @@
 # Westside Roleplay
 
-Westside Roleplay is a German-language roleplay gamemode for the Grand Theft Auto: San Andreas multiplayer modification Multi Theft Auto, which was developed between 2014 and 2015. Westside Roleplay is based on the German-language roleplay gamemode Vio-Extended.
+**Westside Roleplay** is a German-language roleplay gamemode for the  
+*Grand Theft Auto: San Andreas* multiplayer modification **Multi Theft Auto (MTA)**.
 
-This gamemode is extremely outdated and was last updated in 2015. It does not use Multi Theft Auto’s internal database functions, which means it requires the MySQL module to establish a database connection. Since the MySQL module is not compatible with newer MySQL versions, it only works if SSL verification is disabled beforehand.
-(Of course, you can also simply use an older MySQL version.)
+The gamemode was developed between **2014 and 2015** and is based on the German roleplay gamemode **Vio-Extended**.
 
-https://multitheftauto.com   
-https://wiki.multitheftauto.com/wiki/Modules/MTA-MySQL
+---
 
-Due to the age of the gamemode, some systems may not function perfectly, but the gamemode works in general.
+## ⚠️ Project Status
 
-The project Westside Roleplay has been discontinued. Development and support have been terminated.
+> **This project has been discontinued.**  
+> Development and support have been permanently terminated.
+
+---
+
+## 🕒 Maintenance Status
+
+- Last update: **2015**
+- The codebase is **heavily outdated**
+- Some systems may not function correctly
+- The gamemode is **generally playable**, but no longer maintained
+
+---
+
+## 🗄️ Database & Compatibility
+
+Westside Roleplay does **not** use MTA’s internal database functions.
+
+Instead, it relies on the **MTA MySQL module**:
+
+- **Not compatible with modern MySQL versions**
+- Works only if:
+  - **SSL verification is disabled**, or
+  - an **older MySQL version** is used
+
+### Relevant links
+
+- https://multitheftauto.com  
+- https://wiki.multitheftauto.com/wiki/Modules/MTA-MySQL
+
+---
+
+## ℹ️ Notice
+
+This gamemode is provided **for archival, educational, or nostalgic purposes only**.  
+It is **not recommended** for production use or new server projects.
